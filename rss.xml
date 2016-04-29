@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Sirag Nabih]]></title>
         <description><![CDATA[Sirag Nabih]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sirag/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 07:52:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Apr 2016 07:54:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sirag/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[blog de sirag nabih]]></title>
+            <description><![CDATA[<article><h1>blog de sirag nabih</h1><p>El lenguaje es líquido. Brota, mana, se esparce para mojarlo todo. Y después, se evapora. Escribir es hacer fotografías del agua, revisitarla. Cada palabra es una balsa estanca. En el mejor de los casos no hace agua por las costuras. Yo envío mi pequeña flota de barquitos al mar.</p></article>]]></description>
+            <link>http://siragnabih.blogspot.com.es/2014/06/humedad.html</link>
+            <guid isPermaLink="false">f6fdf43b-6e7b-4740-b747-fc43687abfb6</guid>
+            <pubDate>Fri, 29 Apr 2016 07:54:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Instagram photo by Sirag Nabih * Dec 6, 2015 at 7:58am UTC]]></title>
             <description><![CDATA[<article><h1>Instagram photo by Sirag Nabih * Dec 6, 2015 at 7:58am UTC</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/375d61ebdadb0ca5b14519e54fbe16443e5faf9f.jpg"></article>]]></description>
