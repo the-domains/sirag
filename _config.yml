@@ -1,0 +1,28 @@
+name: Sirag Nabih
+favicon: null
+layout_spectrum: 0.2832036919426173
+typography_spectrum: 0.3655181494541466
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.20579341775737703
+  lightness: 0.31449744035489857
+  saturation: 0.1966972933150828
+  rhythmicContrast: 0.33133370405994356
+purpose: []
