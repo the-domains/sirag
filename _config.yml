@@ -1,28 +1,40 @@
-name: Sirag Nabih
+layout_spectrum: 0.9702128
 favicon: null
-layout_spectrum: 0.2832036919426173
-typography_spectrum: 0.3655181494541466
-cta:
-  domain: null
-  bucket: null
-  version: null
+name: Sirag Nabih
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+cta:
+  version: null
+  bucket: null
+  domain: null
 color:
+  brandStrength: 0.205793417757377
+  saturation: 0.1966972933150828
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.20579341775737703
-  lightness: 0.31449744035489857
-  saturation: 0.1966972933150828
-  rhythmicContrast: 0.33133370405994356
-purpose: []
+  lightness: 0.3144974403548986
+  rhythmicContrast: 0.3313337040599436
+typography_spectrum: 0.3655181494541466
